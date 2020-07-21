@@ -15,6 +15,7 @@
 7. [Boolean](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/javascript.md#boolean)
 8. [Truthy e Falsy](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/javascript.md#truthy-e-falsy)
 9. [Estruturas Condicionais](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/javascript.md#estruturas-condicionais)
+10. [Funções](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/javascript.md#fun%C3%A7%C3%B5es)
 
 -------------------------------------------------------
 <p align="center">
