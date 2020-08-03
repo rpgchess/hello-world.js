@@ -17,7 +17,9 @@
 9. [Estruturas Condicionais](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/javascript.md#estruturas-condicionais)
 10. [Funções](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/javascript.md#fun%C3%A7%C3%B5es)
 11. [Objetos](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/javascript.md#objetos)
-
+12. [Arrays e Loops](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/javascript.md#arrays-e-loops)
+13. [Atribuição e Ternário](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/javascript.md#atribui%C3%A7%C3%A3o-e-tern%C3%A1rio)
+14. [Escopo](https://github.com/levxyca/studynotes/blob/master/Linguagens%20de%20Programa%C3%A7%C3%A3o/javascript.md#escopo-1)
 -------------------------------------------------------
 <p align="center">
 Feito com :hearts: por
